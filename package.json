@@ -15,7 +15,7 @@
     "expo": "33.0.7",
     "react": "16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
-    "react-navigation": "3.11.0"
+    "react-navigation": "3.11.1"
   },
   "devDependencies": {
     "babel-preset-expo": "5.2.0",
